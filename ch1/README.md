@@ -36,7 +36,7 @@ high level deep leearning API; makes it simple to train and run neural networks;
     - dimensionality reduction: merge features
     - feature extraction: dimensionality reduction
   - Notes: 
-    - goode idea to reduce dimension of training data using dimensionality reduction
+    - goode idea to reduce dimension of training data using dimensionality reduction 
   - Examples:
     - Detecting similar groups
     - Visualization algorithms
